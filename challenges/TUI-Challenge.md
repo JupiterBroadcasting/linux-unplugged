@@ -6,11 +6,11 @@ Welcome to the Terminal User Interface (TUI) Challenge for LINUX Unplugged! For 
 
 -   Duration: 7 days
     
--   Objective: Complete common computing tasks using only TUI applications. No GUI apps like Firefox, Thunderbird, or LibreOffice, except for launching a terminal emulator if needed.
+-   Objective: Complete common computing tasks using only TUI applications. No GUI apps like Firefox, Thunderbird, or LibreOffice, except for your terminal emulator.
     
 -   Scoring: Earn points for completing challenges. Failing a challenge by using a GUI app results in losing points. Bonus points are available for creative solutions.
     
--   Submission: Share your progress via a Boost, or email with #TUIChallenge in the subject. Include brief descriptions of tools used and bonus point claims.
+-   Submission: Share your progress via a Boost, or email with #TUIChallenge in the subject via the contact page. Include brief descriptions of tools used and bonus point claims.
     
 -   Leaderboard: Total your score at the end of the week. Categories like TUI Titan (highest score), Scripting Sorcerer (most bonus points), or Terminal Survivor (no penalties) add fun!
     
